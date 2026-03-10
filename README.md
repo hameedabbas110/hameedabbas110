@@ -9,7 +9,7 @@
 <br>
 
 <div>
-<img align="right" src="https://www.linkedin.com/in/hameedabbas/" alt="Profile Image" width="340" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
 </div>
 
 ### 💫 About Me
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aravind-reddy-tooti-068688331" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/hameedabbas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <br>
 
